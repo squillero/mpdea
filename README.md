@@ -1,6 +1,8 @@
 Measuring and Promoting Diversity in Evolutionary Algorithms
 ============================================================
 
+[Diversity bibliography](diversity.html)
+
 While *divergence  of  character* is  a  cornerstone  of  the  Darwinian  theory  of  natural  evolution,  the lack  of divergence is  an  oppressive  burden  of  artificial  evolution.  The  problem  has  been  sometimes  labeled  with the oxymoron "premature convergence", implying that the algorithms would converge to better solution if prevented  from  exploiting  strongly  attractive  local  optima.  Different  names  have  been  given  by  different researchers, and different effects have been observed on different paradigms. Almost all deleterious.
 
 The goal of "Measuring and Promoting Diversity in Evolutionary Algorithms" (MPDEA) workshops is to show the current lines of research in the fields of  both diversity promotion and measurement,  as  illustrated  by  their  own  authors.  We  would  be  happy  if MPDEA  would  give  its attendees  the  opportunity  to  dive  into  this  important  and  open problem,  first  providing  them  with background information and eventually enabling them to present their bleeding-edge ideas.

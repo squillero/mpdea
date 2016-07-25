@@ -1,7 +1,7 @@
 Measuring and Promoting Diversity in Evolutionary Algorithms
 ============================================================
 
-[Diversity bibliography](diversity.html)
+[Diversity bibliography](https://htmlpreview.github.io/?https://github.com/squillero/mpdea/master/diversity.html)
 
 While *divergence  of  character* is  a  cornerstone  of  the  Darwinian  theory  of  natural  evolution,  the lack  of divergence is  an  oppressive  burden  of  artificial  evolution.  The  problem  has  been  sometimes  labeled  with the oxymoron "premature convergence", implying that the algorithms would converge to better solution if prevented  from  exploiting  strongly  attractive  local  optima.  Different  names  have  been  given  by  different researchers, and different effects have been observed on different paradigms. Almost all deleterious.
 

@@ -10,7 +10,7 @@ Berlin, Germany, July 15-19, 2017
 
 ### Deadline: March 29, 2017
 
-Divergence of character is a cornerstone of natural evolution. On the contrary, evolutionary optimization processes are plagued by an endemic lack of diversity: all candidate solutions eventually crowd the very same areas in the search space. Such a "lack of speciation" has been pointed out in the seminal work of Holland in 1975, and nowadays is well known among scholars. It has different effects on the different search algorithms, but almost all are quite deleterious. The problem is usually labeled with the oxymoron "premature convergence", that is, the tendency of an algorithm to convergence toward a point where it was not supposed to converge to in the first place.
+Divergence of character is a cornerstone of natural evolution. On the contrary, evolutionary optimization processes are plagued by an endemic lack of diversity: all candidate solutions eventually crowd the very same areas in the search space. Such a "lack of speciation" has been pointed out in the seminal work of Holland in 1975, and nowadays is [well known among scholars](http://www.slideshare.net/Squillero/promoting-diversity-in-evolutionary-optimization-why-and-how). It has different effects on the different search algorithms, but almost all are quite deleterious. The problem is usually labeled with the oxymoron "premature convergence", that is, the tendency of an algorithm to convergence toward a point where it was not supposed to converge to in the first place.
 
 This workshop aims at presenting and exploring both novel and established solutions for promoting diversity in EAs. During the workshop, algorithms and solutions will be presented by the participants. A plenary discussion will address the current state of the art, and future developments to tackle the loss of diversity, both from a practical and a theoretical point of view.
 
@@ -31,5 +31,3 @@ Workshop chairs shall survey the material and provide attendees with full biblio
 
 ### SUBMISSION GUIDELINES
 Authors should email their papers to mpdea@polito.it on or before March 29th, 2017. Submissions should adhere to the [ACM SIG guidelines](http://gecco-2017.sigevo.org/index.html/Papers) as GECCO’s full papers, and not exceed six (6) pages in length.
-
-Don't hesitate to forward this message to possibly interested people and all our apologies already if you received this file multiple times.

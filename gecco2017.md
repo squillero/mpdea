@@ -2,10 +2,11 @@ WORKSHOP ON MEASURING AND PROMOTING DIVERSITY IN EVOLUTIONARY ALGORITHMS (MPDEA)
 ================================================================================
 
 to be held as part of the
-
+~~~
 2017 Genetic and Evolutionary Computation Conference (GECCO-2017)
 [http://gecco-2017.sigevo.org/](http://gecco-2017.sigevo.org/)
 Berlin, Germany, July 15-19, 2017
+~~~
 
 ### Deadline: March 29, 2017
 

@@ -29,5 +29,9 @@ Workshop chairs shall survey the material and provide attendees with full biblio
 * April 15, 2017 decision notification
 * July 15, 2017 or July 16, 2017 workshop
 
+### GECCO LINKS
+* [GECCO Home page](http://gecco-2017.sigevo.org/index.html/HomePage)
+* [MPDEA @ GECCO](http://gecco-2017.sigevo.org/index.html/Workshops#id_Measuring%20and%20Promoting%20Diversity%20in%20Evolutionary%20Algorithms)
+
 ### SUBMISSION GUIDELINES
 Authors should email their papers to mpdea@polito.it on or before March 29th, 2017. Submissions should adhere to the [ACM SIG guidelines](http://gecco-2017.sigevo.org/index.html/Papers) as GECCO’s full papers, and not exceed six (6) pages in length.

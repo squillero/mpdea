@@ -12,4 +12,4 @@ The  MPDEA's call for  papers also  included *a call for references*,  where  we
 * [Diversity bibliography](https://htmlpreview.github.io/?https://github.com/squillero/mpdea/master/diversity.html)
 * [Tutorial at PPSN16](https://github.com/squillero/mpdea/blob/master/ppsn2016.pdf)
 * [Workshop at GECCO 2016](http://gecco-2016.sigevo.org/index.html/Workshops#id_Measuring%20and%20Promoting%20Diversity%20in%20Evolutionary%20Algorithms)
-* [Workshop at GECCO 2017](http://gecco-2017.sigevo.org/index.html/Workshops#id_Measuring%20and%20Promoting%20Diversity%20in%20Evolutionary%20Algorithms)
+* [Workshop at GECCO 2017](gecco2017.md)

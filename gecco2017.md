@@ -8,7 +8,7 @@ http://gecco-2017.sigevo.org/
 Berlin, Germany, July 15-19, 2017
 ~~~
 
-### Deadline Extension: April 5, 2017
+## *** Deadline Extension: April 5, 2017 ***
 
 Divergence of character is a cornerstone of natural evolution. On the contrary, evolutionary optimization processes are plagued by an endemic lack of diversity: all candidate solutions eventually crowd the very same areas in the search space. Such a "lack of speciation" has been pointed out in the seminal work of Holland in 1975, and nowadays is [well known among scholars](http://www.slideshare.net/Squillero/promoting-diversity-in-evolutionary-optimization-why-and-how). It has different effects on the different search algorithms, but almost all are quite deleterious. The problem is usually labeled with the oxymoron "premature convergence", that is, the tendency of an algorithm to convergence toward a point where it was not supposed to converge to in the first place.
 

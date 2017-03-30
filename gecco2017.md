@@ -25,7 +25,7 @@ Interested authors have different options to contribute:
 Workshop chairs shall survey the material and provide attendees with full bibliographical references. Contributions from MPDEA 2017 will be added to the bibliography on diversity preservation that can be found at this address: https://github.com/squillero/mpdea
 
 ### IMPORTANT DATES
-* March 29, 2017 paper submission deadline
+* April 5, 2017 paper submission deadline
 * April 15, 2017 decision notification
 * July 15, 2017 or July 16, 2017 workshop
 

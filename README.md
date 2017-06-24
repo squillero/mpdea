@@ -14,4 +14,4 @@ The  MPDEA's call for  papers also  included *a call for references*,  where  we
 * [Workshop at GECCO 2016](http://gecco-2016.sigevo.org/index.html/Workshops#id_Measuring%20and%20Promoting%20Diversity%20in%20Evolutionary%20Algorithms)
 * [Workshop at GECCO 2017](gecco2017.md)
 
-![(!)](https://www.google-analytics.com/collect?v=1&t=pageview&tid=UA-28094298-5&uid=007&dp=squillero%2Fmpdea)
+![](https://www.google-analytics.com/collect?v=1&t=pageview&tid=UA-28094298-5&uid=gx&dp=squillero%2Fmpdea)
